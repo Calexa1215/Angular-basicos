@@ -12,9 +12,6 @@ import { ContadorComponent } from './contador/contador.component';
         ContadorComponent
     ],
 
-    imports:[
-
-    ]
 })
 
 
